@@ -34,7 +34,7 @@
 
 #include "scull.h"		/* local definitions */
 
-/********************************
+/****************************************************
  * Our parameters which can be set at load time.
  */
 
